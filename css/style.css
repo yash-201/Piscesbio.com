@@ -218,11 +218,12 @@ button {
     width: 100%;
     float: left;
     background-image: url(../images/banner-bg.png);
+    background-repeat: no-repeat;
     height: auto;
     padding-top: 27px;
     padding-bottom: 25px;
     background-size: 100%;
-    padding-bottom: 201px;
+    padding-bottom: 220px;
 }
 .logo {
     width: 100%;
